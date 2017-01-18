@@ -13,6 +13,7 @@ toc_footers:
 
 includes:
   - errors
+  - api_connectivity_issues
 
 search: true
 ---
@@ -186,4 +187,3 @@ This endpoint retrieves a specific kitten.
 Parameter | Description
 --------- | -----------
 ID | The ID of the kitten to retrieve
-
