@@ -16,6 +16,7 @@ includes:
   - api_connectivity_issues
   - basics
   - user_data
+  - messaging
 
 search: true
 ---
