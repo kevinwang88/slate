@@ -14,6 +14,8 @@ toc_footers:
 includes:
   - errors
   - api_connectivity_issues
+  - basics
+  - user_data
 
 search: true
 ---
